@@ -35,10 +35,5 @@ This intensive course provided hands-on experience in building modern, scalable 
   - Web security best practices
 
 **Final Project:**  
-Built a full-stack web application (e.g., e-commerce site, task manager, or social platform) applying all course concepts, with an emphasis on code quality, performance, and user experience.
-
----
-
-**Final Project:**  
 Developed a full-stack web application in a group setting ( social platform). The project emphasized teamwork, agile workflows, and real-world collaboration practices.  
 We worked together using Git and GitHub, managing tasks through branches, pull requests, and code reviews to ensure clean, maintainable code. Regular stand-ups and issue tracking simulated a real development environment, strengthening both technical and communication skills.
