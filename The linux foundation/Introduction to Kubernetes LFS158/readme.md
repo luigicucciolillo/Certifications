@@ -16,20 +16,20 @@ Upon completion, you will have a solid understanding of the origin, architecture
 
 # Course Outline
 
-Chapter 1. Course Introduction
-Chapter 2. From Monolith to Microservices
-Chapter 3. Container Orchestration
-Chapter 4. Kubernetes
-Chapter 5. Kubernetes Architecture
-Chapter 6. Installing Kubernetes
-Chapter 7. Minikube: Installing Local Kubernetes Clusters
-Chapter 8. Accessing Minikube
-Chapter 9. Kubernetes Building Blocks
-Chapter 10. Authentication, Authorization, Admission Control
-Chapter 11. Services
-Chapter 12. Deploying a Standalone Application
-Chapter 13. Kubernetes Volume Management
-Chapter 14. ConfigMaps and Secrets
-Chapter 15. Ingress
-Chapter 16. Advanced Topics
-Chapter 17. Kubernetes Community
+- Chapter 1. Course Introduction
+- Chapter 2. From Monolith to Microservices
+- Chapter 3. Container Orchestration
+- Chapter 4. Kubernetes
+- Chapter 5. Kubernetes Architecture
+- Chapter 6. Installing Kubernetes
+- Chapter 7. Minikube: Installing Local Kubernetes Clusters
+- Chapter 8. Accessing Minikube
+- Chapter 9. Kubernetes Building Blocks
+- Chapter 10. Authentication, Authorization, Admission Control
+- Chapter 11. Services
+- Chapter 12. Deploying a Standalone Application
+- Chapter 13. Kubernetes Volume Management
+- Chapter 14. ConfigMaps and Secrets
+- Chapter 15. Ingress
+- Chapter 16. Advanced Topics
+- Chapter 17. Kubernetes Community
