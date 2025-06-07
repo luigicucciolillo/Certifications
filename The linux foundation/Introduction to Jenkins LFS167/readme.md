@@ -26,3 +26,9 @@ Chapter 7. Freestyle Project
 Chapter 8. Pipeline Project
 Chapter 9. Distributed Builds Architecture
 Chapter 10. What’s Next?
+
+# example of declarative pipeline
+
+<p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-jenkins-lfs167/pipeline-jobs/pipeline-jobs?page=18&wvideo=ajyuui2xev"><img src="https://embed-ssl.wistia.com/deliveries/ae9e882cd836869852686b2c3a18d6c4.jpg?image_play_button_size=2x&image_crop_resized=960x538&image_play_button_rounded=1&image_play_button_color=016ab7e0" style="width: 400px; height: 203.75px;" width="400" height="203.75"></a></p><p><a href="https://trainingportal.linuxfoundation.org/learn/course/introduction-to-jenkins-lfs167/pipeline-jobs/pipeline-jobs?page=18&wvideo=ajyuui2xev">Introduction to Jenkins (LFS167) - Pipeline Jobs | The Linux Foundation</a></p>
+
+link to repo [here](https://github.com/luigicucciolillo/declarative-pipeline-demo)
