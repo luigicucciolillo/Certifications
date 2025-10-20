@@ -2,7 +2,7 @@
 
 ## National Training Program (Naples, Oct 2025 - 35 hours)
 
-official link [here](https://progettare-in-italia.progeu.org/formazione/)
+official link [here1](https://progettare-in-italia.progeu.org/formazione/) and [here2](https://progeu.org/progettare-in-italia-per-una-cittadinanza-globale-decima-tappa-napoli/)
 
 Intensive EU-funded training promoted by the Italian Ministry of Labour and Social Policies and Europe Direct Salerno, integrating strategic project design, systems thinking, and EU policy frameworks.
 
