@@ -1,5 +1,3 @@
-link to the badge [here](https://openbadges.bestr.it/public/assertions/jkL-FJMZQJS4kxEkVoA3_Q)
-
 # In short
 
 Three-month training program preparing participants for current and future clean-energy challenges. The course combined technical foundations, research methods, and innovation skills
@@ -29,8 +27,10 @@ through front-loaded lessons and a final applied project.
 Study case integrating edge orchestration systems (KubeEdge / k3s / EdgeX) with blockchain at the edge (Hyperledger Fabric / Bevel) to support secure, low-latency SCADA-like energy operations.
 
 ---
+# From the Badge provider
+link to the badge [here](https://openbadges.bestr.it/public/assertions/jkL-FJMZQJS4kxEkVoA3_Q)
 
-# Clean Tech Academy
+## Clean Tech Academy
 
 The owner of this badge has completed the Clean Tech Academy programme, realised by the Politecnico di Torino and Miticoro Foundation with the support of EIT, the European Institute of Innovation and Technology.
 
@@ -46,9 +46,9 @@ The programme aims to provide the necessary skills to respond to the pressing ne
 
 ---
 
-# Skills
+## Skills
 
-## Technical Skills
+### Technical Skills
 
 The technical skills required and developed in the context of the Clean Tech Academy concern mastering emerging technologies in the clean and deep tech sector, with a focus on the ecological and digital transition.
 
@@ -79,13 +79,13 @@ The knowledge developed in the Clean Tech Academy is based on learning principle
 
 ---
 
-# Criteria
+## Criteria
 
 The Badge is awarded to those who have attended the entire training course, upon delivery and validation of the coursework and the final group project, in accordance with the instructions of the peers who oversaw the overall work of the teams.
 
 ---
 
-# Issued by Politecnico di Torino
+## Issued by Politecnico di Torino
 
 Politecnico di Torino (www.polito.it) was founded in 1906 and has its roots in the Technical School for Engineers created in 1859. 
 
