@@ -20,7 +20,7 @@ Prepare for real-world observability challenges—whether you're deploying at sc
 # Course Outline
 Chapter 1. Course Introduction 
 
-Chapter 2. Introduction to Observability
+Chapter 2. Introduction to Observability<br>
 Chapter 3. Introduction to Prometheus
 Chapter 4. Installing and Setting Up Prometheus
 Chapter 5. Basic Querying
