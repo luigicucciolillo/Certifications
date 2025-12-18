@@ -18,7 +18,8 @@ Walk away knowing how to monitor real-world systems with Prometheus—track cont
 Prepare for real-world observability challenges—whether you're deploying at scale, building dashboards, or setting alerts. This course, along with real-world experience and study, will provide the skills and knowledge also tested by the Prometheus Certified Associate (PCA) exam
 
 # Course Outline
-Chapter 1. Course Introduction
+Chapter 1. Course Introduction 
+
 Chapter 2. Introduction to Observability
 Chapter 3. Introduction to Prometheus
 Chapter 4. Installing and Setting Up Prometheus
