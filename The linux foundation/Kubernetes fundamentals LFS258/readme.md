@@ -16,20 +16,20 @@ The course, along with real-world experience and study, will provide the skills 
 
 # Course Outline
 
-Chapter 1. Course Introduction
-Chapter 2. Basics of Kubernetes
-Chapter 3. Installation and Configuration
-Chapter 4. Kubernetes Architecture
-Chapter 5. APIs and Access
-Chapter 6. API Objects
-Chapter 7. Managing State with Deployments
-Chapter 8. Helm and Kustomize
-Chapter 9. Volumes and Data
-Chapter 10. Services
-Chapter 11. Ingress
-Chapter 12. Scheduling
-Chapter 13. Logging and Troubleshooting
-Chapter 14. Custom Resource Definitions
-Chapter 15. Security
-Chapter 16. High Availability
-Chapter 17. Exam Domain Review
+Chapter 1. Course Introduction<br>
+Chapter 2. Basics of Kubernetes<br>
+Chapter 3. Installation and Configuration<br>
+Chapter 4. Kubernetes Architecture<br>
+Chapter 5. APIs and Access<br>
+Chapter 6. API Objects<br>
+Chapter 7. Managing State with Deployments<br>
+Chapter 8. Helm and Kustomize<br>
+Chapter 9. Volumes and Data<br>
+Chapter 10. Services<br>
+Chapter 11. Ingress<br>
+Chapter 12. Scheduling<br>
+Chapter 13. Logging and Troubleshooting<br>
+Chapter 14. Custom Resource Definitions<br>
+Chapter 15. Security<br>
+Chapter 16. High Availability<br>
+Chapter 17. Exam Domain Review<br>

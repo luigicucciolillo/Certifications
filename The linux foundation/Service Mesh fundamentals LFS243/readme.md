@@ -22,10 +22,10 @@ After completing this course, you will be prepared to roll out and manage micros
 
 # Course Outline
 
-Chapter 1. Course Introduction
-Chapter 2. Cloud Native Apps
-Chapter 3. Resilience for Distributed Systems
-Chapter 4. Service Mesh Data Planes and Control Planes
-Chapter 5. Service Mesh Fundamentals
-Chapter 6. Service Mesh Standards
-Chapter 7. Using Service Mesh to Debug and Mitigate App Failures
+Chapter 1. Course Introduction<br>
+Chapter 2. Cloud Native Apps<br>
+Chapter 3. Resilience for Distributed Systems<br>
+Chapter 4. Service Mesh Data Planes and Control Planes<br>
+Chapter 5. Service Mesh Fundamentals<br>
+Chapter 6. Service Mesh Standards<br>
+Chapter 7. Using Service Mesh to Debug and Mitigate App Failures<br>
