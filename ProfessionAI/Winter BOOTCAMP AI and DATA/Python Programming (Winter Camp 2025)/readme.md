@@ -2,6 +2,12 @@
 
 material for **7 hours** of theoretical study
 
+* Corso: Programmazione con Python
+* 5 teoria
+* 5 moduli pratica
+* 5 esercitazioni
+* Data di completamento 09/01/2026
+
 **Python Programming (Winter Camp 2025)** is an introductory, hands-on training program designed to build solid foundations in Python software development through a structured combination of **theory**, **guided practice**, and **practical exercises**.
 The objective is to enable learners to master Python syntax and core programming constructs, applying them immediately to concrete problems, while progressively introducing modern **AI-assisted coding tools**.
 
