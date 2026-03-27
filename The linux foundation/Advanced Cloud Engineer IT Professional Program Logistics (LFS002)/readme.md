@@ -4,9 +4,6 @@ Issued by The Linux Foundation<br>
 
 Earners of the LFS253: Containers Fundamentals badge have a good understanding of container technologies. They are able to do container and image operations with different container runtimes, manage network and storage (volumes) with containers, as well as build and run multi-container applications with Docker and Docker APIs. <br>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0014d6a-3312-47a7-b099-5dc460c80ea5" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 https://www.credly.com/badges/a0014d6a-3312-47a7-b099-5dc460c80ea5/public_url
 
 Skills: Container, networking, Container operations, Container runtimes, Containers, Docker, Docker APIs, Docker Compose, Multi-container applications
